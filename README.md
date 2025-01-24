@@ -1,3 +1,4 @@
+<img href='./hetairoii.png' alt='hetairoii'/>
 <h1 align="center">Hi 👋, I'm Matias Silveira AKA hetairoii</h1>
 <h3 align="center">A passionate and invested fullstack developer from Venezuela :)</h3>
 
