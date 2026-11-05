@@ -3,9 +3,9 @@
 <a href="https://hetairoii.github.io/meet-hetairoii/"><img src="assets/header.svg" alt="Matias Silveira (hetairoii), Full Stack Developer" width="100%"></a>
 
 <p>
-  <a href="https://hetairoii.github.io/meet-hetairoii/">Portfolio</a> &nbsp;&middot;&nbsp;
-  <a href="https://linkedin.com/in/matias-silveira-1840b329a">LinkedIn</a> &nbsp;&middot;&nbsp;
-  <a href="mailto:joserafaelmatiast@gmail.com">Email</a>
+  <a href="https://hetairoii.github.io/meet-hetairoii/"><img src="assets/icon-portfolio.svg" alt="Portfolio" width="48" height="48"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/matias-silveira-1840b329a"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="48" height="48"></a>&nbsp;&nbsp;
+  <a href="mailto:joserafaelmatiast@gmail.com"><img src="assets/icon-email.svg" alt="Email" width="48" height="48"></a>
 </p>
 
 </div>
